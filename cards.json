@@ -1,0 +1,321 @@
+{
+    "cards": [
+        {
+            "name": "The Fool",
+            "description": "New beginnings, optimism, trust in life"
+        },
+        {
+            "name": "The Magician",
+            "description": "Action, the power to manifest"
+        },
+        {
+            "name": "The High Priestess",
+            "description": "Inaction, going within, the mystical"
+        },
+        {
+            "name": "The Empress",
+            "description": "Abundance, nurturing, fertility, life in bloom!"
+        },
+        {
+            "name": "The Emperor",
+            "description": "Structure, stability, rules and power"
+        },
+        {
+            "name": "The Hierophant",
+            "description": "Institutions, tradition, society and its rules"
+        },
+        {
+            "name": "The Lovers",
+            "description": "Sexuality, passion, choice, uniting"
+        },
+        {
+            "name": "The Chariot",
+            "description": "Movement, progress, integration"
+        },
+        {
+            "name": "Strength",
+            "description": "Courage, subtle power, integration of animal self"
+        },
+        {
+            "name": "The Hermit",
+            "description": "Meditation, solutude, consciousness"
+        },
+        {
+            "name": "Wheel of Fortune",
+            "description": "Cycles, change ups and downs"
+        },
+        {
+            "name": "Justice",
+            "description": "Fairness, equality, balance"
+        },
+        {
+            "name": "The Hanged Man",
+            "description": "Surrender, new perspective, enlightenment"
+        },
+        {
+            "name": "Death",
+            "description": "The end of something, change, letting go"
+        },
+        {
+            "name": "Temperance",
+            "description": "Balance, moderation, being sensible"
+        },
+        {
+            "name": "The Devil",
+            "description": "Destructive patterns, addiction, giving away your power"
+        },
+        {
+            "name": "The Tower",
+            "description": "Collapse of stable structures, relase, sudden insight"
+        },
+        {
+            "name": "The Star",
+            "description": "Hope calm a good omen"
+        },
+        {
+            "name": "The Moon",
+            "description": "Myster the subconscious dreams"
+        },
+        {
+            "name": "The Sun",
+            "description": "Success happiness, all will be will"
+        },
+        {
+            "name": "Judgement",
+            "description": "Rebirth, a new phase, inner calling"
+        },
+        {
+            "name": "The World",
+            "description": "Completion, wholeness, attainment, celebration of life"
+        },
+
+        {
+            "name": "1 of Pentacles",
+            "description": "Financial reward, clarify of life purpose"
+        },
+        {
+            "name": "2 of Pentacles",
+            "description": "Balance, multitasking"
+        },
+        {
+            "name": "3 of Pentacles",
+            "description": "Meaningful work, enjoying one's work, suitable career"
+        },
+        {
+            "name": "4 of Pentacles",
+            "description": "Hoarding, feeling poor, holding self back out of fear"
+        },
+        {
+            "name": "5 of Pentacles",
+            "description": "Minor money troubles, health issues, feeling like an outsider"
+        },
+        {
+            "name": "6 of Pentacles",
+            "description": "Charity accepting and giving up"
+        },
+        {
+            "name": "7 of Pentacles",
+            "description": "Patience, waiting for your plans to bear fruit"
+        },
+        {
+            "name": "8 of Pentacles",
+            "description": "Hard work, focused efforts, laying the groundwork"
+        },
+        {
+            "name": "9 of Pentacles",
+            "description": "Luxury, rest, financial and material comforts"
+        },
+        {
+            "name": "10 of Pentacles",
+            "description": "Financial success, strong business relationships"
+        },
+
+        {
+            "name": "1 of Swords",
+            "description": "Fresh start, sudden opportunity, idea clarity"
+        },
+        {
+            "name": "2 of Swords",
+            "description": "Indecision"
+        },
+        {
+            "name": "3 of Swords",
+            "description": "Heartbreak, betrayal"
+        },
+        {
+            "name": "4 of Swords",
+            "description": "Meditation, rest, retreat"
+        },
+        {
+            "name": "5 of Swords",
+            "description": "Mind games, hostility"
+        },
+        {
+            "name": "6 of Swords",
+            "description": "Leaving, accepting help, going somewhere better"
+        },
+        {
+            "name": "7 of Swords",
+            "description": "Secret plans, abandoning ship"
+        },
+        {
+            "name": "8 of Swords",
+            "description": "Feeling powerless and stuck"
+        },
+        {
+            "name": "9 of Swords",
+            "description": "Overactive mind, anxiety"
+        },
+        {
+            "name": "10 of Swords",
+            "description": "Feeling defeated, self sabotage"
+        },
+        {
+            "name": "1 of Cups",
+            "description": "Emotional fulfillment, joy"
+        },
+        {
+            "name": "2 of Cups",
+            "description": "Partnership, mutual attraction, compatibility"
+        },
+        {
+            "name": "3 of Cups",
+            "description": "Celebration, fun with friends, laughter"
+        },
+        {
+            "name": "4 of Cups",
+            "description": "Boredom, dissatisfaction with what is being offered"
+        },
+        {
+            "name": "5 of Cups",
+            "description": "Dwelling on the negative, self pity"
+        },
+        {
+            "name": "6 of Cups",
+            "description": "Sentimentally, kindness, help"
+        },
+        {
+            "name": "7 of Cups",
+            "description": "So many choices! Indecision, getting lost in fantasy"
+        },
+        {
+            "name": "8 of Cups",
+            "description": "Abandoning something in search of something better"
+        },
+        {
+            "name": "9 of Cups",
+            "description": "Indulgence, self-satisfaction"
+        },
+        {
+            "name": "10 of Cups",
+            "description": "Emotional bliss, happiness, attainment"
+        },
+        {
+            "name": "1 of Wands",
+            "description": "New beginnings, creative spark, fertile ideas"
+        },
+        {
+            "name": "2 of Wands",
+            "description": "Contemplation, assessing ones life direction"
+        },
+        {
+            "name": "3 of Wands",
+            "description": "Reaping the rewards of your efforts"
+        },
+        {
+            "name": "4 of Wands",
+            "description": "Celebration, safety, the home"
+        },
+        {
+            "name": "5 of Wands",
+            "description": "Competition, minor struggles or disagreements"
+        },
+        {
+            "name": "6 of Wands",
+            "description": "Success, accolades and achievement"
+        },
+        {
+            "name": "7 of Wands",
+            "description": "Feeling defensive and on guard"
+        },
+        {
+            "name": "8 of Wands",
+            "description": "Speed, things manifesting quickly"
+        },
+        {
+            "name": "9 of Wands",
+            "description": "Pessimism, gearing up for the worst"
+        },
+        {
+            "name": "10 of Wands",
+            "description": "Feeling oppressed, exhaustion, too many responsibilities"
+        },
+        {
+            "name": "King of Pentacles",
+            "description": "Enjoys the good life (food, drink and leisure), financially secure"
+        },
+        {
+            "name": "Queen of  Pentacles",
+            "description": "Healthy in body and finances, grounded and calm"
+        },
+        {
+            "name": "Knight of  Pentacles",
+            "description": "Cautious, sensible and slow to progress"
+        },
+        {
+            "name": "Page of  Pentacles",
+            "description": "Student, commitment to learning"
+        },
+
+        {
+            "name": "King of Swords",
+            "description": "Serious, controlling, rational and mind/intellect focused"
+        },
+        {
+            "name": "Queen of  Swords",
+            "description": "Intelligent, writer, communicative yet cold - cuts through B.S"
+        },
+        {
+            "name": "Knight of  Swords",
+            "description": "Fierce, determined, aggressivley pursues goals"
+        },
+        {
+            "name": "Page of  Swords",
+            "description": "Mentally unstable or intellectually immature, acts without thinking"
+        },
+
+        {
+            "name": "King of Cups",
+            "description": "Need to acknowledge deep feelings, avoid drowning out emotions"
+        },
+        {
+            "name": "Queen of Cups",
+            "description": "Emotionally nurturing, intuitive, sensitive"
+        },
+        {
+            "name": "Knight of Cups",
+            "description": "Romantic, adventurous, following one's heart"
+        },
+        {
+            "name": "Page of Cups",
+            "description": "Creative, inspired learning artistic skill"
+        },
+
+        {
+            "name": "King of Wands",
+            "description": "Career focused, mature, passionate"
+        },
+        {
+            "name": "Queen of Wands",
+            "description": "Confidant, focused, has zest for life"
+        },
+        {
+            "name": "Knight of Wands",
+            "description": "An adventurous risk taker who follows his passions"
+        },
+        {
+            "name": "Page of Wands",
+            "description": "Newly inspired, excited about life and work"
+        }
+    ]
+}
